@@ -3,5 +3,7 @@
 ## Table of Contents
 ## Getting Started (self-hosting)
 ## Contributing
-## Acknowledgments
 
+amalyam
+
+## Acknowledgments
