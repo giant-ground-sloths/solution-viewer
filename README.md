@@ -3,5 +3,8 @@
 ## Table of Contents
 ## Getting Started (self-hosting)
 ## Contributing
-zacgram, Spinstersen
+zacgram
+Spinstersen
+amalyam
+
 ## Acknowledgments
